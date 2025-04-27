@@ -47,8 +47,7 @@ Classes and Methods Documentation
 	•	volume(): Calculates volume using: a³
 
 ⸻
-
-▶️ How to Run the Code
+How to Run the Code
 	1.	Make sure you have Python 3 installed.
 	2.	Save the code in a file named, for example, shapes.py.
 	3.	Open a terminal or command prompt.
@@ -58,6 +57,7 @@ Classes and Methods Documentation
 python 3-D.py
 
 
+<img width="742" alt="Screenshot 2025-04-27 at 8 12 55 PM" src="https://github.com/user-attachments/assets/628975bf-142e-45db-8b59-99dbe84a666d" />
 
 ``` ⸻
 Sample Input/Output (Screenshots)
@@ -65,7 +65,6 @@ Sample Input/Output (Screenshots)
 Since shapes are randomly generated, your output will vary every time.
 
 Example Run:
-<img width="742" alt="Screenshot 2025-04-27 at 8 12 55 PM" src="https://github.com/user-attachments/assets/628975bf-142e-45db-8b59-99dbe84a666d" />
 
 
 Shape 1: Sphere
