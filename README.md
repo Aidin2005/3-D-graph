@@ -1,5 +1,5 @@
-3D Shape Modeling with Abstraction
-Project Description
+# 3D Shape Modeling with Abstraction
+# Project Description
 ```
 This project demonstrates the concept of abstraction and polymorphism in Python by modeling 3D shapes.
 We define an abstract base class Shape3D with two abstract methods:
@@ -14,8 +14,8 @@ Three subclasses implement these methods:
 The program randomly generates 10 shape objects, calculates their surface area and volume, and displays the results.
 ```
 ⸻
-
-``` Classes and Methods Documentation
+ # Classes and Methods Documentation
+```
 
 1. Shape3D (Abstract Base Class)
 	•	Purpose: Defines the blueprint for 3D shapes.
@@ -46,7 +46,8 @@ The program randomly generates 10 shape objects, calculates their surface area a
 	•	volume(): Calculates volume using: a³
 ```
 ⸻
-```     How to Run the Code
+# How to Run the Code
+```    
 	1.	Make sure you have Python 3 installed.
 	2.	Save the code in a file named, for example, shapes.py.
 	3.	Open a terminal or command prompt.
