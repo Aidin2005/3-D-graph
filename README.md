@@ -65,6 +65,8 @@ Sample Input/Output (Screenshots)
 Since shapes are randomly generated, your output will vary every time.
 
 Example Run:
+<img width="742" alt="Screenshot 2025-04-27 at 8 12 55 PM" src="https://github.com/user-attachments/assets/628975bf-142e-45db-8b59-99dbe84a666d" />
+
 
 Shape 1: Sphere
 Surface Area: 384.85
